@@ -1,7 +1,7 @@
 .cartao-pokemon{
    
 display: none;
-    box-shadow: rgb(255, 255, 254) 0px 20px 30px -10px;
+    box-shadow: rgb(242, 245, 242) 0px 20px 30px -10px;
       border-radius: 10px;
 } 
 
@@ -73,7 +73,7 @@ margin: 5px;
 
 .cartao-pokemon .cartao-informacoes .habilidade ul li,
 .cartao-pokemon .cartao-informacoes .status ul li {
-    border-bottom: 1px  solid #9c9393 ;
+    border-bottom: 1px  solid #c7c3c3 ;
     padding: 0 0 5px;
     margin-bottom: 5px;
     font-size: 15px;

@@ -19,7 +19,7 @@ listaSelecaoPokemons.forEach(pokemon => {
        pokemonAtivoNaListagem.classList.remove('ativo')
 
        const pokemonSelecionadoNaListagem = document.getElementById(idPokemonSelecionado)
-       pokemonSelecionadoNaListagem.classList.add('ativo')
+       pokemonSelecionadoNaListagem.classList.add('ativo')  
 
 
          
