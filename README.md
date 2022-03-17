@@ -5,4 +5,4 @@ Criado por Barbara Thomazelli
 
 &nbsp;
 
-<img src = "src/imagens/Pikachuprint.png">
+<img src = "src/imagens/pikachuprint.png">
